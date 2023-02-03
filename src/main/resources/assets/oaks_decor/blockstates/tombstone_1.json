@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/tombstone_1"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/tombstone_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/tombstone_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/tombstone_1",
+      "y": 270
+    }
+  }
+}

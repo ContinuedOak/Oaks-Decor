@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/chair",
+  "textures": {
+    "all": "oaks_decor:blocks/mangrove_log",
+    "particle": "oaks_decor:blocks/stripped_mangrove_log",
+    "seat": "oaks_decor:blocks/stripped_mangrove_log",
+    "legs": "oaks_decor:blocks/mangrove_log"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_planks"
+    },
+    "1": {
+      "item": "minecraft:jungle_planks"
+    },
+    "2": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:jungle_shelves",
+    "count": 3
+  }
+}

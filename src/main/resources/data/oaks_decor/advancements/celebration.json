@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "oaks_decor:three_stacked_cake"
+    },
+    "title": {
+      "translate": "advancements.celebration.title"
+    },
+    "description": {
+      "translate": "advancements.celebration.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "celebration": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "oaks_decor:cake_1",
+      "oaks_decor:cake_2"
+    ]
+  },
+  "parent": "oaks_decor:welcome_to_oaks_decor"
+}

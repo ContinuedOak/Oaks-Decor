@@ -1,0 +1,31 @@
+{
+  "oaks_decor:home_decor": {
+    "criteria": {
+      "home_decor": "2022-05-09 05:30:54 +1000"
+    },
+    "done": true
+  },
+  "oaks_decor:welcome_to_oaks_decor": {
+    "criteria": {
+      "welcome_to_oaks_decor": "2022-05-09 05:29:56 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-05-09 05:31:28 +1000",
+      "minecraft:river": "2022-05-09 05:31:52 +1000",
+      "minecraft:stony_shore": "2022-05-09 05:31:51 +1000",
+      "minecraft:grove": "2022-05-09 05:29:56 +1000",
+      "minecraft:forest": "2022-05-09 05:30:47 +1000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2022-05-09 05:30:54 +1000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

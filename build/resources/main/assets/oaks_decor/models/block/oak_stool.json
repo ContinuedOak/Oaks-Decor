@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/stool",
+  "textures": {
+    "all": "oaks_decor:blocks/oak_planks",
+    "particle": "oaks_decor:blocks/oak_planks",
+    "log": "oaks_decor:blocks/oak_planks"
+  },
+  "render_type": "solid"
+}

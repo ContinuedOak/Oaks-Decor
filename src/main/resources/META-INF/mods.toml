@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="oaks_decor"
+version="9.0"
+displayName="Oaks Decor"
+credits="You!"
+displayURL="https://www.oakmods.com/home"
+logoFile="logo.png"
+authors="ContinuedOaks"
+description='''
+ aims to expand on the decoration blocks and items, bringing functionality to some of the blocks of your world. Currently adding over sixty unique blocks, the mod is continually growing with a few new themed updates planned for the future
+'''
+
+[[dependencies.oaks_decor]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

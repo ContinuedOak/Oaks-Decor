@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/skeletondecor2",
+  "textures": {
+    "all": "oaks_decor:blocks/skeletondecorskullandbones",
+    "particle": "oaks_decor:blocks/skeletondecorskullandbones",
+    "1": "oaks_decor:blocks/skeletondecorskullandbones"
+  },
+  "render_type": "cutout_mipped"
+}

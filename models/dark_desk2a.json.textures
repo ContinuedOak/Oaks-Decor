@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "13": "dark_desk2a"
+      },
+      "name": "default"
+    }
+  }
+}

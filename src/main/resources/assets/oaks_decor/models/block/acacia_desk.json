@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/acacia_desk1",
+  "textures": {
+    "all": "oaks_decor:blocks/acacia_desk1",
+    "particle": "oaks_decor:blocks/acacia_hanging_shelves_breakable",
+    "16": "oaks_decor:blocks/acacia_desk1"
+  },
+  "render_type": "solid"
+}

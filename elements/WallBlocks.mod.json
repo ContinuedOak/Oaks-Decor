@@ -1,0 +1,80 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:NetherrackBricksWall"
+      },
+      {
+        "value": "Blocks.GRANITE_WALL"
+      },
+      {
+        "value": "Blocks.DIORITE_WALL"
+      },
+      {
+        "value": "Blocks.ANDESITE_WALL"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.BRICK_WALL"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.RED_NETHER_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#0"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#1"
+      },
+      {
+        "value": "Blocks.PRISMARINE_WALL"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

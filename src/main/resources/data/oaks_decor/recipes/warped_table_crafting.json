@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_planks"
+    },
+    "1": {
+      "item": "minecraft:warped_planks"
+    },
+    "2": {
+      "item": "minecraft:warped_planks"
+    },
+    "4": {
+      "item": "minecraft:warped_stem"
+    },
+    "7": {
+      "item": "minecraft:warped_stem"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:warped_table",
+    "count": 1
+  }
+}

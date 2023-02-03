@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/blackcup",
+  "textures": {
+    "all": "oaks_decor:blocks/blackcup",
+    "particle": "oaks_decor:blocks/blackcup",
+    "2": "oaks_decor:blocks/blackcup"
+  },
+  "render_type": "solid"
+}

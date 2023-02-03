@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mangrove_log",
+        "5": "stripped_mangrove_log",
+        "7": "water_still"
+      },
+      "name": "default"
+    }
+  }
+}

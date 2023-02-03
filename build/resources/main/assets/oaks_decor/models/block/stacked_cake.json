@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_decor:custom/twostackedcake",
+  "textures": {
+    "all": "oaks_decor:blocks/cake_top",
+    "particle": "oaks_decor:blocks/cake_bottom",
+    "side": "oaks_decor:blocks/cake_side",
+    "top": "oaks_decor:blocks/cake_top",
+    "bottom": "oaks_decor:blocks/cake_bottom"
+  },
+  "render_type": "solid"
+}

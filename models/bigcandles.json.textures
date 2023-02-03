@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Colour": "sented_candle_default"
+      },
+      "name": "default"
+    }
+  }
+}

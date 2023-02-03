@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/warped_table",
+  "textures": {
+    "all": "oaks_decor:blocks/warped_table",
+    "particle": "oaks_decor:blocks/warped_planks",
+    "3": "oaks_decor:blocks/warped_table"
+  },
+  "render_type": "solid"
+}

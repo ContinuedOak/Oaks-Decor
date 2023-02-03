@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_log"
+    },
+    "1": {
+      "item": "minecraft:jungle_log"
+    },
+    "2": {
+      "item": "minecraft:jungle_log"
+    },
+    "3": {
+      "item": "minecraft:jungle_planks"
+    },
+    "5": {
+      "item": "minecraft:jungle_planks"
+    },
+    "6": {
+      "item": "minecraft:jungle_planks"
+    },
+    "7": {
+      "item": "minecraft:jungle_planks"
+    },
+    "8": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:jungle_desk",
+    "count": 1
+  }
+}

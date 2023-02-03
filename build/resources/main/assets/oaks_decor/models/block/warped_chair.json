@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/chair",
+  "textures": {
+    "all": "oaks_decor:blocks/warped_stem_side",
+    "particle": "oaks_decor:blocks/stripped_warped_stem",
+    "seat": "oaks_decor:blocks/stripped_warped_stem",
+    "legs": "oaks_decor:blocks/warped_stem_side"
+  },
+  "render_type": "solid"
+}

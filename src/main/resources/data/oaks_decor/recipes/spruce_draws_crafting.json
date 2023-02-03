@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_andesite_slab"
+    },
+    "1": {
+      "item": "minecraft:polished_andesite_slab"
+    },
+    "2": {
+      "item": "minecraft:polished_andesite_slab"
+    },
+    "3": {
+      "item": "minecraft:spruce_planks"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:spruce_planks"
+    },
+    "6": {
+      "item": "minecraft:spruce_log"
+    },
+    "7": {
+      "item": "minecraft:spruce_log"
+    },
+    "8": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:spruce_draws_closed",
+    "count": 1
+  }
+}

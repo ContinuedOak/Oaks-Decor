@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_log"
+    },
+    "1": {
+      "item": "minecraft:acacia_log"
+    },
+    "2": {
+      "item": "minecraft:acacia_log"
+    },
+    "3": {
+      "item": "minecraft:acacia_planks"
+    },
+    "5": {
+      "item": "minecraft:acacia_planks"
+    },
+    "6": {
+      "item": "minecraft:acacia_planks"
+    },
+    "7": {
+      "item": "minecraft:acacia_planks"
+    },
+    "8": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:acacia_desk",
+    "count": 1
+  }
+}

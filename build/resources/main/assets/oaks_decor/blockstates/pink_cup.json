@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/pink_cup"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/pink_cup",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/pink_cup",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/pink_cup",
+      "y": 270
+    }
+  }
+}

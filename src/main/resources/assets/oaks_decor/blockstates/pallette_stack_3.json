@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/pallette_stack_3"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/pallette_stack_3",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/pallette_stack_3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/pallette_stack_3",
+      "y": 270
+    }
+  }
+}

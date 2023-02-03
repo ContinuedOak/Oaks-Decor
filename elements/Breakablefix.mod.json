@@ -1,0 +1,69 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AcaciaDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:AcaciaDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:BirchDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:BirchDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:CrimsonDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:CrimsonDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:DarkOakDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:DarkOakDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:JungleDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:JungleDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:SpruceDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:SpruceDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:WarpedDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:WarpedDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:OakDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:OakDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:MangroveDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:MangroveDrawsOpen"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "breakable_fix",
+    "namespace": "oaks_decor"
+  }
+}

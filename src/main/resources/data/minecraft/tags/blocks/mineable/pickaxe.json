@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "oaks_decor:crimson_blackstone_bricks",
+    "oaks_decor:cracked_crimson_polished_blackstone_bricks",
+    "oaks_decor:warped_blackstone_bricks",
+    "oaks_decor:cracked_warped_polished_blackstone_bricks",
+    "oaks_decor:netherrack_bricks",
+    "oaks_decor:cracked_netherrack_bricks",
+    "oaks_decor:netherrack_bricks_slab",
+    "oaks_decor:netherrack_bricks_stairs",
+    "oaks_decor:netherrack_bricks_pillar",
+    "oaks_decor:tombstone_1",
+    "oaks_decor:gravestone",
+    "oaks_decor:stone_pebbles",
+    "oaks_decor:andesite_pebbles",
+    "oaks_decor:diorite_pebbles",
+    "oaks_decor:granite_pebbles",
+    "oaks_decor:deepslate_pebbles",
+    "oaks_decor:stone_shelves",
+    "oaks_decor:coffee_sign",
+    "oaks_decor:modern_stairs",
+    "oaks_decor:polished_limestone_stairs",
+    "oaks_decor:polished_limestone_slab",
+    "oaks_decor:limestone_brick_stairs",
+    "oaks_decor:limestone_brick_slab",
+    "oaks_decor:polished_limestone_wall"
+  ]
+}

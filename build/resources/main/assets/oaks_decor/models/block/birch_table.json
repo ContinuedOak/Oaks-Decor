@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/birch_table",
+  "textures": {
+    "all": "oaks_decor:blocks/birch_table",
+    "particle": "oaks_decor:blocks/birch_planks",
+    "2": "oaks_decor:blocks/birch_table"
+  },
+  "render_type": "solid"
+}

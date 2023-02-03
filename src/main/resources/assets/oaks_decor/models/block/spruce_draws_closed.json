@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_decor:custom/templete_draws_closed",
+  "textures": {
+    "all": "oaks_decor:blocks/spruce_log",
+    "particle": "oaks_decor:blocks/stripped_spruce_log",
+    "polished": "oaks_decor:blocks/polished_andesite",
+    "log": "oaks_decor:blocks/spruce_log",
+    "stripped": "oaks_decor:blocks/stripped_spruce_log"
+  },
+  "render_type": "solid"
+}

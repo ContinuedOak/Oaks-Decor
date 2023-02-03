@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/crimson_tanner_leather",
+  "textures": {
+    "all": "oaks_decor:blocks/crimson_planks",
+    "particle": "oaks_decor:blocks/stripped_crimson_stem",
+    "wood": "oaks_decor:blocks/stripped_crimson_stem"
+  },
+  "render_type": "cutout"
+}

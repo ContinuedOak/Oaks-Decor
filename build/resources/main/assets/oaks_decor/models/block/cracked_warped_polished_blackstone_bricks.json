@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_decor:blocks/crackewarpedpolishedblackstonebricks",
+    "up": "oaks_decor:blocks/crackewarpedpolishedblackstonebricks",
+    "north": "oaks_decor:blocks/crackewarpedpolishedblackstonebricks",
+    "east": "oaks_decor:blocks/crackewarpedpolishedblackstonebricks",
+    "south": "oaks_decor:blocks/crackewarpedpolishedblackstonebricks",
+    "west": "oaks_decor:blocks/crackewarpedpolishedblackstonebricks",
+    "particle": "oaks_decor:blocks/crackewarpedpolishedblackstonebricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 34,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Does Stonecutter Hurt",
+    "description": "When Enabled, Stonecutter will hurt any entity that is ontop of it (besides Villagers)",
+    "category": "UPDATES",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

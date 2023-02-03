@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "window_barrier"
+      },
+      "name": "default"
+    }
+  }
+}

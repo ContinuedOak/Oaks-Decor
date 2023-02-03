@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "16": "birch_desk2b"
+      },
+      "name": "default"
+    }
+  }
+}

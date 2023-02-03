@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/steve",
+  "textures": {
+    "all": "oaks_decor:blocks/download_13",
+    "particle": "oaks_decor:blocks/download_13",
+    "1": "oaks_decor:blocks/download_13"
+  },
+  "render_type": "cutout"
+}

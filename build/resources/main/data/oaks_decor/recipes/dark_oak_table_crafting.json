@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "1": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "2": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "4": {
+      "item": "minecraft:dark_oak_log"
+    },
+    "7": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:dark_oak_table",
+    "count": 1
+  }
+}

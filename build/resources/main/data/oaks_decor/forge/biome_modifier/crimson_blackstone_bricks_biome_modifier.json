@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "crimson_forest",
+  "features": "oaks_decor:crimson_blackstone_bricks",
+  "step": "underground_ores"
+}

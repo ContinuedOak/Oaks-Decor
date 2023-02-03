@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "Blocks.TARGET"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.LOG#1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpruceTargetStage0"
+    },
+    "name": "spruce_traget_0",
+    "namespace": "mod"
+  }
+}

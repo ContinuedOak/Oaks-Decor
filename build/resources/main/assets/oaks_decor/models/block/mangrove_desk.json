@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/mangrove_deska",
+  "textures": {
+    "all": "oaks_decor:blocks/mangrove_log",
+    "particle": "oaks_decor:blocks/mangrove_log",
+    "16": "oaks_decor:blocks/mangrove_log"
+  },
+  "render_type": "solid"
+}

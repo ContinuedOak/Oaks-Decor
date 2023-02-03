@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/player_model_2",
+  "textures": {
+    "all": "oaks_decor:blocks/continuedoak_2",
+    "particle": "oaks_decor:blocks/continuedoak_2",
+    "2": "oaks_decor:blocks/continuedoak_2"
+  },
+  "render_type": "cutout"
+}

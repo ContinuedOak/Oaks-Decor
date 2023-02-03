@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "16": "jungle_desk3"
+      },
+      "name": "default"
+    }
+  }
+}

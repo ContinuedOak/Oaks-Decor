@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/red_cup",
+  "textures": {
+    "all": "oaks_decor:blocks/red_cup",
+    "particle": "oaks_decor:blocks/red_cup",
+    "2": "oaks_decor:blocks/red_cup"
+  },
+  "render_type": "solid"
+}

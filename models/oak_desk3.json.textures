@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "15": "oak_desk3"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/player_model_1",
+  "textures": {
+    "all": "oaks_decor:blocks/chazashan22",
+    "particle": "oaks_decor:blocks/chazashan22",
+    "2": "oaks_decor:blocks/chazashan22"
+  },
+  "render_type": "cutout"
+}

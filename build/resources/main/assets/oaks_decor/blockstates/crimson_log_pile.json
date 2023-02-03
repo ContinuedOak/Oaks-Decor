@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/crimson_log_pile"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/crimson_log_pile",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/crimson_log_pile",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/crimson_log_pile",
+      "y": 270
+    }
+  }
+}

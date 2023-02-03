@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "spruce_log": "spruce_log",
+        "stripped_spruce_log": "stripped_spruce_log"
+      },
+      "name": "default"
+    }
+  }
+}

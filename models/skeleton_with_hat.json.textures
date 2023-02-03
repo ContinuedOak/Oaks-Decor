@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "buried_skeleton_4"
+      },
+      "name": "default"
+    }
+  }
+}

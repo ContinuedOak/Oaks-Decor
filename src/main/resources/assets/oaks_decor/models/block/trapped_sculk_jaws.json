@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_decor:blocks/sculk",
+    "up": "oaks_decor:blocks/sculk_trapped",
+    "north": "oaks_decor:blocks/sculk",
+    "east": "oaks_decor:blocks/sculk",
+    "south": "oaks_decor:blocks/sculk",
+    "west": "oaks_decor:blocks/sculk",
+    "particle": "oaks_decor:blocks/sculk"
+  },
+  "render_type": "solid"
+}

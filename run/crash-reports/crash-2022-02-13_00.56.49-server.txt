@@ -1,0 +1,141 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 2/13/22, 12:56 AM
+Description: Ticking entity
+
+java.lang.ArrayIndexOutOfBoundsException: Index 9 out of bounds for length 9
+	at java.util.Arrays$ArrayList.get(Arrays.java:4164) ~[?:?] {}
+	at net.minecraft.core.NonNullList.get(NonNullList.java:43) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraft.world.level.block.entity.RandomizableContainerBlockEntity.getItem(RandomizableContainerBlockEntity.java:97) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraftforge.items.wrapper.InvWrapper.getStackInSlot(InvWrapper.java:68) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2374%2380!:?] {re:classloading}
+	at net.minecraftforge.items.SlotItemHandler.getItem(SlotItemHandler.java:54) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2374%2380!:?] {re:classloading}
+	at net.minecraft.world.inventory.AbstractContainerMenu.broadcastChanges(AbstractContainerMenu.java:161) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraft.server.level.ServerPlayer.tick(ServerPlayer.java:399) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:623) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:486) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerLevel.lambda$tick$5(ServerLevel.java:384) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:365) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:883) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:819) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.server.IntegratedServer.tickServer(IntegratedServer.java:85) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:684) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:258) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:831) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.Arrays$ArrayList.get(Arrays.java:4164) ~[?:?] {}
+	at net.minecraft.core.NonNullList.get(NonNullList.java:43) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraft.world.level.block.entity.RandomizableContainerBlockEntity.getItem(RandomizableContainerBlockEntity.java:97) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraftforge.items.wrapper.InvWrapper.getStackInSlot(InvWrapper.java:68) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2374%2380!:?] {re:classloading}
+	at net.minecraftforge.items.SlotItemHandler.getItem(SlotItemHandler.java:54) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2374%2380!:?] {re:classloading}
+	at net.minecraft.world.inventory.AbstractContainerMenu.broadcastChanges(AbstractContainerMenu.java:161) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraft.server.level.ServerPlayer.tick(ServerPlayer.java:399) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:623) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:player (net.minecraft.server.level.ServerPlayer)
+	Entity ID: 11
+	Entity Name: Dev
+	Entity's Exact location: 21.95, 3.00, -7.04
+	Entity's Block location: World: (21,3,-8), Section: (at 5,3,8 in 1,0,-1; chunk contains blocks 16,0,-16 to 31,255,-1), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Entity's Momentum: 0.00, -0.08, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: null
+Stacktrace:
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:486) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerLevel.lambda$tick$5(ServerLevel.java:384) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:365) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayer['Dev'/11, l='ServerLevel[Building With Mod]', x=21.95, y=3.00, z=-7.04]]
+	Chunk stats: 2025
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (0,4,0), Section: (at 0,4,0 in 0,0,0; chunk contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 68224 game time, 68224 day time
+	Level name: Building With Mod
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+	Level weather: Rain time: 49758 (now: false), thunder time: 14101 (now: false)
+	Known server brands: forge
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:883) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:819) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.server.IntegratedServer.tickServer(IntegratedServer.java:85) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:684) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:258) ~[forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.jar%2375!:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:831) [?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.17.1
+	Minecraft Version ID: 1.17.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 16.0.2, Eclipse Foundation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Foundation
+	Memory: 350412944 bytes (334 MiB) / 1153433600 bytes (1100 MiB) up to 1593835520 bytes (1520 MiB)
+	CPUs: 8
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  
+	Identifier: AuthenticAMD Family 23 Model 24 Stepping 1
+	Microarchitecture: Zen / Zen+
+	Frequency (GHz): 2.10
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: AMD Radeon(TM) Vega 8 Graphics
+	Graphics card #0 vendor: Advanced Micro Devices, Inc. (0x1002)
+	Graphics card #0 VRAM (MB): 2048.00
+	Graphics card #0 deviceId: 0x15d8
+	Graphics card #0 versionInfo: DriverVersion=27.20.1026.1
+	Memory slot #0 capacity (MB): 4096.00
+	Memory slot #0 clockSpeed (GHz): 2.67
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 4096.00
+	Memory slot #1 clockSpeed (GHz): 2.67
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 17338.57
+	Virtual memory used (MB): 12685.14
+	Swap memory total (MB): 11264.00
+	Swap memory used (MB): 1689.12
+	JVM Flags: 1 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	Player Count: 1 / 8; [ServerPlayer['Dev'/11, l='ServerLevel[Building With Mod]', x=21.95, y=3.00, z=-7.04]]
+	Data Packs: vanilla, mod:forge, mod:oaks_decor (incompatible)
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'forge'
+	ModLauncher: 9.0.24+9.0.24+main.7be9f01d
+	ModLauncher launch target: forgeclientuserdev
+	ModLauncher naming: mcp
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 capability_inject_definalize PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+	Mod List: 
+		forge-1.17.1-37.1.1_mapped_official_1.17.1-recomp.|Minecraft                     |minecraft                     |1.17.1              |DONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		                                                  |Forge                         |forge                         |37.1.1              |DONE      |Manifest: NOSIGNATURE
+		main                                              |Oaks Decor                    |oaks_decor                    |1.0.0               |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 039581fc-1910-4d83-8273-3bdcd5bc801b
+	FML: 37.1
+	Forge: net.minecraftforge:37.1.1

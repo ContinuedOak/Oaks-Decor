@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_decor:custom/log_pile",
+  "textures": {
+    "all": "oaks_decor:blocks/dark_oak_log",
+    "particle": "oaks_decor:blocks/dark_oak_log",
+    "log": "oaks_decor:blocks/dark_oak_log",
+    "rail": "oaks_decor:blocks/activator_rail",
+    "log_top": "oaks_decor:blocks/dark_oak_log_top"
+  },
+  "render_type": "solid"
+}

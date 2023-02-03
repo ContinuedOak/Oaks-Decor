@@ -1,0 +1,88 @@
+{
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-11-30 13:58:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-11-30 13:39:22 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-11-30 13:58:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2022-10-08 00:49:25 +1100"
+    },
+    "done": true
+  },
+  "oaks_decor:home_decor": {
+    "criteria": {
+      "home_decor": "2022-10-08 00:49:25 +1100"
+    },
+    "done": true
+  },
+  "oaks_decor:welcome_to_oaks_decor": {
+    "criteria": {
+      "welcome_to_oaks_decor": "2022-10-08 00:45:37 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-10-08 00:47:01 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-11-30 13:58:08 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-11-30 13:58:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-11-30 13:58:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-11-30 13:58:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-10-08 00:46:07 +1100",
+      "minecraft:sparse_jungle": "2022-10-08 00:45:38 +1100",
+      "minecraft:lukewarm_ocean": "2022-10-08 00:46:09 +1100",
+      "minecraft:river": "2022-10-08 00:46:32 +1100",
+      "minecraft:forest": "2022-10-08 00:46:31 +1100",
+      "minecraft:ocean": "2022-10-08 00:46:15 +1100",
+      "minecraft:deep_dark": "2022-10-08 00:46:48 +1100",
+      "minecraft:meadow": "2022-10-08 00:49:10 +1100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-11-30 13:58:09 +1100"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

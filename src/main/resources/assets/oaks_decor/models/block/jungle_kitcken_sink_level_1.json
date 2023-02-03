@@ -1,0 +1,12 @@
+{
+  "parent": "oaks_decor:custom/sink_1",
+  "textures": {
+    "all": "oaks_decor:blocks/jungle_log",
+    "particle": "oaks_decor:blocks/jungle_log",
+    "tap": "oaks_decor:blocks/gray_concrete",
+    "log": "oaks_decor:blocks/jungle_log",
+    "stripped": "oaks_decor:blocks/stripped_jungle_log",
+    "water_still": "oaks_decor:blocks/water_sink"
+  },
+  "render_type": "cutout_mipped"
+}

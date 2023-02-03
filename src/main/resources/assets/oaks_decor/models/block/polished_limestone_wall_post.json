@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "oaks_decor:blocks/polished_limestone",
+    "particle": "oaks_decor:blocks/polished_limestone"
+  },
+  "render_type": "solid"
+}

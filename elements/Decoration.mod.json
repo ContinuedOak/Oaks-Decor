@@ -1,0 +1,852 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:OakShelves"
+      },
+      {
+        "value": "CUSTOM:AcaciaShelves"
+      },
+      {
+        "value": "CUSTOM:BirchShelves"
+      },
+      {
+        "value": "CUSTOM:CrimsonShelves"
+      },
+      {
+        "value": "CUSTOM:DarkOakShelves"
+      },
+      {
+        "value": "CUSTOM:JungleShelves"
+      },
+      {
+        "value": "CUSTOM:SpruceShelves"
+      },
+      {
+        "value": "CUSTOM:WarpedShelves"
+      },
+      {
+        "value": "CUSTOM:LogPile"
+      },
+      {
+        "value": "CUSTOM:OakStool"
+      },
+      {
+        "value": "CUSTOM:FallenSkeleton"
+      },
+      {
+        "value": "CUSTOM:Tombstone1"
+      },
+      {
+        "value": "CUSTOM:Gravestone"
+      },
+      {
+        "value": "CUSTOM:StackedBook"
+      },
+      {
+        "value": "CUSTOM:BlueCup"
+      },
+      {
+        "value": "CUSTOM:AcaciaDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:AcaciaDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:DarkOakStool"
+      },
+      {
+        "value": "CUSTOM:CrimsonStool"
+      },
+      {
+        "value": "CUSTOM:BirchStool"
+      },
+      {
+        "value": "CUSTOM:AcaciaStool"
+      },
+      {
+        "value": "CUSTOM:SpruceStool"
+      },
+      {
+        "value": "CUSTOM:WarpedStool"
+      },
+      {
+        "value": "CUSTOM:JungleStool"
+      },
+      {
+        "value": "CUSTOM:BirchDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:BirchDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:CrimsonDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:CrimsonDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:DarkOakDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:DarkOakDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:JungleDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:JungleDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:SpruceDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:SpruceDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:WarpedDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:WarpedDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:RedCup"
+      },
+      {
+        "value": "CUSTOM:GreenCup"
+      },
+      {
+        "value": "CUSTOM:StackedBookUpright"
+      },
+      {
+        "value": "CUSTOM:StackedBooksOffCenter"
+      },
+      {
+        "value": "CUSTOM:AcaciaTable"
+      },
+      {
+        "value": "CUSTOM:OakDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:OakDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:BirchTable"
+      },
+      {
+        "value": "CUSTOM:CrimsonTable"
+      },
+      {
+        "value": "CUSTOM:DarkOakTable"
+      },
+      {
+        "value": "CUSTOM:JungleTable"
+      },
+      {
+        "value": "CUSTOM:OakTable"
+      },
+      {
+        "value": "CUSTOM:SpruceTable"
+      },
+      {
+        "value": "CUSTOM:WarpedTable"
+      },
+      {
+        "value": "CUSTOM:OakChair"
+      },
+      {
+        "value": "CUSTOM:AcaicaChair"
+      },
+      {
+        "value": "CUSTOM:BirchChair"
+      },
+      {
+        "value": "CUSTOM:CrimsonChair"
+      },
+      {
+        "value": "CUSTOM:DarkOakChair"
+      },
+      {
+        "value": "CUSTOM:JungleChair"
+      },
+      {
+        "value": "CUSTOM:SpruceChair"
+      },
+      {
+        "value": "CUSTOM:WarpedChair"
+      },
+      {
+        "value": "CUSTOM:SkullAndBones"
+      },
+      {
+        "value": "CUSTOM:WoodenCross"
+      },
+      {
+        "value": "CUSTOM:StoneShelves"
+      },
+      {
+        "value": "CUSTOM:AcaciaDesk"
+      },
+      {
+        "value": "CUSTOM:AcaciaDeskLeft"
+      },
+      {
+        "value": "CUSTOM:AcaciaDeskRight"
+      },
+      {
+        "value": "CUSTOM:AcaciaDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:AcaciaBookshelf"
+      },
+      {
+        "value": "CUSTOM:BirchBookshelf"
+      },
+      {
+        "value": "CUSTOM:CrimsonBookshelf"
+      },
+      {
+        "value": "CUSTOM:DarkOakBookshelf"
+      },
+      {
+        "value": "CUSTOM:JungleBookshelf"
+      },
+      {
+        "value": "CUSTOM:SpruceBookshelf"
+      },
+      {
+        "value": "CUSTOM:WarpedBookshelf"
+      },
+      {
+        "value": "CUSTOM:OakDesk"
+      },
+      {
+        "value": "CUSTOM:OakDeskLeft"
+      },
+      {
+        "value": "CUSTOM:OakDeskRight"
+      },
+      {
+        "value": "CUSTOM:OakDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:WarpedDesk"
+      },
+      {
+        "value": "CUSTOM:WarpedDeskLeft"
+      },
+      {
+        "value": "CUSTOM:WarpedDeskRight"
+      },
+      {
+        "value": "CUSTOM:WarpedDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:Clothesline"
+      },
+      {
+        "value": "CUSTOM:ClotheslineLeft"
+      },
+      {
+        "value": "CUSTOM:ClotheslineRight"
+      },
+      {
+        "value": "CUSTOM:ClothelineMiddle"
+      },
+      {
+        "value": "CUSTOM:Clotheslineoveralls"
+      },
+      {
+        "value": "CUSTOM:ClotheslineFirefly"
+      },
+      {
+        "value": "CUSTOM:ClotheslineCreeper"
+      },
+      {
+        "value": "CUSTOM:BirdHouse"
+      },
+      {
+        "value": "CUSTOM:StackBookFallen"
+      },
+      {
+        "value": "CUSTOM:StackBookFallen2"
+      },
+      {
+        "value": "CUSTOM:SpruceDesk"
+      },
+      {
+        "value": "CUSTOM:SpruceDeskLeft"
+      },
+      {
+        "value": "CUSTOM:SpruceDeskRight"
+      },
+      {
+        "value": "CUSTOM:SpruceDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:Clotheslineazalea"
+      },
+      {
+        "value": "CUSTOM:DarkOakDesk"
+      },
+      {
+        "value": "CUSTOM:DarkOakDeskLeft"
+      },
+      {
+        "value": "CUSTOM:DarkOakDeskRight"
+      },
+      {
+        "value": "CUSTOM:DarkOakMiddle"
+      },
+      {
+        "value": "CUSTOM:BirchDesk"
+      },
+      {
+        "value": "CUSTOM:BirchDeskLeft"
+      },
+      {
+        "value": "CUSTOM:BirchDeskRight"
+      },
+      {
+        "value": "CUSTOM:BirchDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:CirmsonDesk"
+      },
+      {
+        "value": "CUSTOM:CirmsonDeskLeft"
+      },
+      {
+        "value": "CUSTOM:CirmsonDeskRight"
+      },
+      {
+        "value": "CUSTOM:CirmsonDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:JungleDesk"
+      },
+      {
+        "value": "CUSTOM:JungleDeskLeft"
+      },
+      {
+        "value": "CUSTOM:JungleDeskright"
+      },
+      {
+        "value": "CUSTOM:JungleDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:WhiteCup"
+      },
+      {
+        "value": "CUSTOM:BlackCup"
+      },
+      {
+        "value": "CUSTOM:BrownCup"
+      },
+      {
+        "value": "CUSTOM:PinkCup"
+      },
+      {
+        "value": "CUSTOM:PurpleCup"
+      },
+      {
+        "value": "CUSTOM:YellowCup"
+      },
+      {
+        "value": "CUSTOM:CyanCup"
+      },
+      {
+        "value": "CUSTOM:CoffeeSign"
+      },
+      {
+        "value": "CUSTOM:AcaciaTannerLeather"
+      },
+      {
+        "value": "CUSTOM:AcaciaTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:AcaciaTannerLeatherWithRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:BirchTannerLeather"
+      },
+      {
+        "value": "CUSTOM:BirchTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:BirchTannerLeatherWithRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:CrimsonTannerLeather"
+      },
+      {
+        "value": "CUSTOM:CrimsonTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:CrimsonTannerLeatherWithRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:DarkOakTannerLeather"
+      },
+      {
+        "value": "CUSTOM:DarkOakTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:DarkOakTannerLeatherWithRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:SittingSkeleton"
+      },
+      {
+        "value": "CUSTOM:SittingSkeletonUnused"
+      },
+      {
+        "value": "CUSTOM:JungleTannerLeather"
+      },
+      {
+        "value": "CUSTOM:JungleTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:JungleTannerLeatherWithRotteFlesh"
+      },
+      {
+        "value": "CUSTOM:OakTannerLeather"
+      },
+      {
+        "value": "CUSTOM:OakTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:OakTannerLeatherWithRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:SpruceTannerLeather"
+      },
+      {
+        "value": "CUSTOM:SpruceTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:SpruceTannerLeatherWithRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:WarpedTannerLeather"
+      },
+      {
+        "value": "CUSTOM:WarpedTannerLeatherWithLeather"
+      },
+      {
+        "value": "CUSTOM:WarpedTannerLeatherWithRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:StonePebbles"
+      },
+      {
+        "value": "CUSTOM:AndesitePebbles"
+      },
+      {
+        "value": "CUSTOM:DioritePebbles"
+      },
+      {
+        "value": "CUSTOM:GranitePebbles"
+      },
+      {
+        "value": "CUSTOM:Scarecrow"
+      },
+      {
+        "value": "CUSTOM:ContinuedOaksFigure"
+      },
+      {
+        "value": "CUSTOM:ChazaShan22"
+      },
+      {
+        "value": "CUSTOM:AngelbeeFigure"
+      },
+      {
+        "value": "CUSTOM:StackedCake"
+      },
+      {
+        "value": "CUSTOM:ThreeStackedCake"
+      },
+      {
+        "value": "CUSTOM:Pebbles1"
+      },
+      {
+        "value": "CUSTOM:Pebbles2"
+      },
+      {
+        "value": "CUSTOM:BlackDoorMat"
+      },
+      {
+        "value": "CUSTOM:BlueDoorMat"
+      },
+      {
+        "value": "CUSTOM:BrownDoorMat"
+      },
+      {
+        "value": "CUSTOM:CyanDoorMat"
+      },
+      {
+        "value": "CUSTOM:GreyDoorMat"
+      },
+      {
+        "value": "CUSTOM:LightBlueDoorMat"
+      },
+      {
+        "value": "CUSTOM:LimeDoormat"
+      },
+      {
+        "value": "CUSTOM:MagentaDoorMat"
+      },
+      {
+        "value": "CUSTOM:OrangeDoorMat"
+      },
+      {
+        "value": "CUSTOM:PinkDoorMat"
+      },
+      {
+        "value": "CUSTOM:PurpleDoorMat"
+      },
+      {
+        "value": "CUSTOM:RedDoorMat"
+      },
+      {
+        "value": "CUSTOM:WhiteDoorMat"
+      },
+      {
+        "value": "CUSTOM:YellowDoorMat"
+      },
+      {
+        "value": "CUSTOM:ModernStairs"
+      },
+      {
+        "value": "CUSTOM:DoorMat"
+      },
+      {
+        "value": "CUSTOM:Steve"
+      },
+      {
+        "value": "CUSTOM:MrCrayfishFigure"
+      },
+      {
+        "value": "CUSTOM:AlarmClock"
+      },
+      {
+        "value": "CUSTOM:AlarmClockOn"
+      },
+      {
+        "value": "CUSTOM:CrimsonBlackstoneBricks"
+      },
+      {
+        "value": "CUSTOM:WarpedBlackstoneBricks"
+      },
+      {
+        "value": "CUSTOM:NetherrackBricks"
+      },
+      {
+        "value": "CUSTOM:NetherrackBricksSlab"
+      },
+      {
+        "value": "CUSTOM:NetherrackBricksStairs"
+      },
+      {
+        "value": "CUSTOM:NetherrackBricksWall"
+      },
+      {
+        "value": "CUSTOM:MangroveChair"
+      },
+      {
+        "value": "CUSTOM:MangroveDrawsClosed"
+      },
+      {
+        "value": "CUSTOM:MangroveDesk"
+      },
+      {
+        "value": "CUSTOM:DeepslatePebbles"
+      },
+      {
+        "value": "CUSTOM:SpruceDogHouse"
+      },
+      {
+        "value": "CUSTOM:OakDogHouse"
+      },
+      {
+        "value": "CUSTOM:AcaciaDogHouse"
+      },
+      {
+        "value": "CUSTOM:JungleDogHouse"
+      },
+      {
+        "value": "CUSTOM:BirchDogHouse"
+      },
+      {
+        "value": "CUSTOM:DarkOakDogHouse"
+      },
+      {
+        "value": "CUSTOM:WarpedDogHouse"
+      },
+      {
+        "value": "CUSTOM:CrimsonDogHouse"
+      },
+      {
+        "value": "CUSTOM:Pallette"
+      },
+      {
+        "value": "CUSTOM:PalletteStack2"
+      },
+      {
+        "value": "CUSTOM:PalletteStack3"
+      },
+      {
+        "value": "CUSTOM:PalletteStack4"
+      },
+      {
+        "value": "CUSTOM:PalletteStack5"
+      },
+      {
+        "value": "CUSTOM:Paper"
+      },
+      {
+        "value": "CUSTOM:MangroveBookshelf"
+      },
+      {
+        "value": "CUSTOM:MangroveDrawsOpen"
+      },
+      {
+        "value": "CUSTOM:MangroveDeskLeft"
+      },
+      {
+        "value": "CUSTOM:MangroveDeskMiddle"
+      },
+      {
+        "value": "CUSTOM:MangroveDeskConerRight"
+      },
+      {
+        "value": "CUSTOM:MangroveShelves"
+      },
+      {
+        "value": "CUSTOM:MangroveTable"
+      },
+      {
+        "value": "CUSTOM:TrappedSculkJaws"
+      },
+      {
+        "value": "CUSTOM:MangroveDogHouse"
+      },
+      {
+        "value": "CUSTOM:OakTargetStage0"
+      },
+      {
+        "value": "CUSTOM:AcaciaTargetStage0"
+      },
+      {
+        "value": "CUSTOM:BirchTargetStage0"
+      },
+      {
+        "value": "CUSTOM:DarkOakTargetStage0"
+      },
+      {
+        "value": "CUSTOM:JungleTargetStage0"
+      },
+      {
+        "value": "CUSTOM:MangroveTargetStage0"
+      },
+      {
+        "value": "CUSTOM:SpruceTargetStage0"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneSlab"
+      },
+      {
+        "value": "CUSTOM:LimestoneBrickStairs"
+      },
+      {
+        "value": "CUSTOM:LimestoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:OakTargetStage1"
+      },
+      {
+        "value": "CUSTOM:AcaciaTargetStage1"
+      },
+      {
+        "value": "CUSTOM:BirchTargetStage1"
+      },
+      {
+        "value": "CUSTOM:DarkOakTargetStage1"
+      },
+      {
+        "value": "CUSTOM:JungleTargetStage1"
+      },
+      {
+        "value": "CUSTOM:MangroveTargetStage1"
+      },
+      {
+        "value": "CUSTOM:SpruceTargetStage1"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneWall"
+      },
+      {
+        "value": "CUSTOM:CrackedCrimsonPolishedBlackstoneBricks"
+      },
+      {
+        "value": "CUSTOM:CrackedWarpedPolishedBlackstoneBricks"
+      },
+      {
+        "value": "CUSTOM:AcaciaCrate"
+      },
+      {
+        "value": "CUSTOM:BirchCrate"
+      },
+      {
+        "value": "CUSTOM:CrimsonCrate"
+      },
+      {
+        "value": "CUSTOM:DarkOakCrate"
+      },
+      {
+        "value": "CUSTOM:JungleCrate"
+      },
+      {
+        "value": "CUSTOM:MangroveCrate"
+      },
+      {
+        "value": "CUSTOM:OakCrate"
+      },
+      {
+        "value": "CUSTOM:SpruceCrate"
+      },
+      {
+        "value": "CUSTOM:WarpedCrate"
+      },
+      {
+        "value": "CUSTOM:YorkmouseFigure"
+      },
+      {
+        "value": "CUSTOM:CrackedNetherrackBricks"
+      },
+      {
+        "value": "CUSTOM:AcaciaKitchenBench"
+      },
+      {
+        "value": "CUSTOM:BirchKitchenBench"
+      },
+      {
+        "value": "CUSTOM:CrimsonKitchenBench"
+      },
+      {
+        "value": "CUSTOM:DarkOakKitchenBench"
+      },
+      {
+        "value": "CUSTOM:JungleKitchenBench"
+      },
+      {
+        "value": "CUSTOM:MangroveKitchenBench"
+      },
+      {
+        "value": "CUSTOM:OakKitchenBench"
+      },
+      {
+        "value": "CUSTOM:WarpedKitchenBench"
+      },
+      {
+        "value": "CUSTOM:SpruceKitchenBench"
+      },
+      {
+        "value": "CUSTOM:AcaciaKitchenSink"
+      },
+      {
+        "value": "CUSTOM:BirchKitchenSink"
+      },
+      {
+        "value": "CUSTOM:CrimsonKitchenSink"
+      },
+      {
+        "value": "CUSTOM:DarkOakKitchenSink"
+      },
+      {
+        "value": "CUSTOM:JungleKitchenSink"
+      },
+      {
+        "value": "CUSTOM:MangroveKitchenSink"
+      },
+      {
+        "value": "CUSTOM:OakKitchenSink"
+      },
+      {
+        "value": "CUSTOM:SpruceKitchenSink"
+      },
+      {
+        "value": "CUSTOM:WarpedKitchenSink"
+      },
+      {
+        "value": "CUSTOM:SandCastle"
+      },
+      {
+        "value": "CUSTOM:SandCastles"
+      },
+      {
+        "value": "CUSTOM:AcaciaKitchenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:BirchKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:CrimsonKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:DarkOakKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:JungleKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:MangroveKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:OakKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:SpruceKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:WarpedKitckenSinkLevel1"
+      },
+      {
+        "value": "CUSTOM:AcaciaLogPile"
+      },
+      {
+        "value": "CUSTOM:BirchLogPile"
+      },
+      {
+        "value": "CUSTOM:CrimsonLogPile"
+      },
+      {
+        "value": "CUSTOM:DarkOakLogPile"
+      },
+      {
+        "value": "CUSTOM:JungleLogPile"
+      },
+      {
+        "value": "CUSTOM:MangroveLogPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLogPile"
+      },
+      {
+        "value": "CUSTOM:WarpedLogPile"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "decoration",
+    "namespace": "oaks_decor"
+  }
+}

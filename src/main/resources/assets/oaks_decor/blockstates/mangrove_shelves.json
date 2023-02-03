@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/mangrove_shelves"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/mangrove_shelves",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/mangrove_shelves",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/mangrove_shelves",
+      "y": 270
+    }
+  }
+}

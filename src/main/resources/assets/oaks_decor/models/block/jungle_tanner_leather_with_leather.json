@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/jungle_tanner_leather_withleather",
+  "textures": {
+    "all": "oaks_decor:blocks/jungle_planks",
+    "particle": "oaks_decor:blocks/stripped_jungle_log",
+    "2": "oaks_decor:blocks/leather",
+    "wood": "oaks_decor:blocks/stripped_jungle_log"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "wood": "stripped_dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

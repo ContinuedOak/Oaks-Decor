@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/spruce_tanner_leather_withleather",
+  "textures": {
+    "all": "oaks_decor:blocks/spruce_planks",
+    "particle": "oaks_decor:blocks/stripped_spruce_log",
+    "2": "oaks_decor:blocks/leather",
+    "wood": "oaks_decor:blocks/stripped_spruce_log"
+  },
+  "render_type": "cutout"
+}

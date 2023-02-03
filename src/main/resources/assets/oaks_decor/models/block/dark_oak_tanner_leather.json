@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/dark_oak_tanner_leather",
+  "textures": {
+    "all": "oaks_decor:blocks/dark_oak_planks",
+    "particle": "oaks_decor:blocks/stripped_dark_oak_log",
+    "wood": "oaks_decor:blocks/stripped_dark_oak_log"
+  },
+  "render_type": "cutout"
+}

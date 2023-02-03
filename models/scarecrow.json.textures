@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "scarecrow",
+        "2": "32"
+      },
+      "name": "default"
+    }
+  }
+}

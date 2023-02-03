@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "wood": "stripped_jungle_log"
+      },
+      "name": "default"
+    }
+  }
+}

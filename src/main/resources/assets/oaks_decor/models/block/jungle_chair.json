@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/chair",
+  "textures": {
+    "all": "oaks_decor:blocks/jungle_log",
+    "particle": "oaks_decor:blocks/stripped_jungle_log",
+    "seat": "oaks_decor:blocks/stripped_jungle_log",
+    "legs": "oaks_decor:blocks/jungle_log"
+  },
+  "render_type": "solid"
+}

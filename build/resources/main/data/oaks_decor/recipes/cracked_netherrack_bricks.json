@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "oaks_decor:netherrack_bricks"
+  },
+  "result": "oaks_decor:cracked_netherrack_bricks"
+}

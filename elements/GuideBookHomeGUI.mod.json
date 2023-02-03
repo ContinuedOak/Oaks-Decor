@@ -1,0 +1,175 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 256,
+    "height": 166,
+    "inventoryOffsetX": 41,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Oaks Decor Guide",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Oaks Decor Guide",
+          "x": 90,
+          "y": 42
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gamerules",
+          "onClick": {
+            "name": "OpenGameRule"
+          },
+          "width": 67,
+          "height": 20,
+          "name": "Gamerules",
+          "x": 96,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Coming",
+          "width": 67,
+          "height": 20,
+          "name": "Coming",
+          "x": 96,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Soon",
+          "width": 67,
+          "height": 20,
+          "name": "Soon",
+          "x": 96,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:version>",
+          "color": {
+            "value": -12779776,
+            "falpha": 0.0
+          },
+          "name": "<VAR:version>",
+          "x": 306,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Mod Created:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Mod Created:",
+          "x": 96,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Feb 13, 2022",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Feb 13, 2022",
+          "x": 168,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Last Updated:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Last Updated:",
+          "x": 96,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Jan 22, 2023",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Jan 22, 2023",
+          "x": 168,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "YouTube.com/c/ContinuedOak",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "YouTube.com/c/ContinuedOak",
+          "x": 96,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Twitter.com/continuedOak",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Twitter.com/continuedOak",
+          "x": 96,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Mod:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Mod:",
+          "x": 285,
+          "y": 44
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

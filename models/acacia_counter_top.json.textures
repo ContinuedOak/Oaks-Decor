@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_acacia_log",
+        "5": "acacia_log",
+        "7": "water_still"
+      },
+      "name": "default"
+    }
+  }
+}

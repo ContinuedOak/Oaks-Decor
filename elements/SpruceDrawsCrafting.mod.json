@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.PLANKS#1"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "Blocks.PLANKS#1"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpruceDrawsClosed"
+    },
+    "name": "spruce_draws_crafting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "dark_oak_log",
+        "base": "stripped_dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

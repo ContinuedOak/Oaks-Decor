@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/cirmson_desk"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/cirmson_desk",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/cirmson_desk",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/cirmson_desk",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/clothesline_azalea",
+  "textures": {
+    "all": "oaks_decor:blocks/clothesline_azalea",
+    "particle": "oaks_decor:blocks/oak_planks",
+    "5": "oaks_decor:blocks/clothesline_azalea"
+  },
+  "render_type": "cutout"
+}

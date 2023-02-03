@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "dripstone_caves",
+    "deep_dark",
+    "lush_caves"
+  ],
+  "features": "oaks_decor:skeleton_traps",
+  "step": "vegetal_decoration"
+}

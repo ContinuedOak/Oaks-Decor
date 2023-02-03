@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_planks"
+    },
+    "1": {
+      "item": "minecraft:jungle_planks"
+    },
+    "2": {
+      "item": "minecraft:jungle_planks"
+    },
+    "3": {
+      "item": "minecraft:jungle_log"
+    },
+    "5": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:jungle_stool",
+    "count": 1
+  }
+}

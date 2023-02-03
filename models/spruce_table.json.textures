@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "spruce_table"
+      },
+      "name": "default"
+    }
+  }
+}

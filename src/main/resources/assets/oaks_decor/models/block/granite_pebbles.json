@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/stone_pebbles4",
+  "textures": {
+    "all": "oaks_decor:blocks/granite",
+    "particle": "oaks_decor:blocks/granite",
+    "0": "oaks_decor:blocks/granite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "polished": "polished_andesite",
+        "log": "oak_log",
+        "stripped": "stripped_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_planks"
+    },
+    "1": {
+      "item": "minecraft:birch_planks"
+    },
+    "2": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:birch_shelves",
+    "count": 3
+  }
+}

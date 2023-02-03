@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_planks"
+    },
+    "1": {
+      "item": "minecraft:warped_planks"
+    },
+    "2": {
+      "item": "minecraft:warped_planks"
+    },
+    "3": {
+      "item": "minecraft:warped_planks"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:warped_planks"
+    },
+    "6": {
+      "item": "minecraft:warped_planks"
+    },
+    "7": {
+      "item": "minecraft:warped_planks"
+    },
+    "8": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:warped_crate",
+    "count": 1
+  }
+}

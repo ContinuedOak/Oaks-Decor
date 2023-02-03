@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "warped_stem_side",
+        "base": "stripped_warped_stem"
+      },
+      "name": "default"
+    }
+  }
+}

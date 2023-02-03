@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/book_stack5",
+  "textures": {
+    "all": "oaks_decor:blocks/book_stack5",
+    "particle": "oaks_decor:blocks/book_stack5",
+    "6": "oaks_decor:blocks/book_stack5"
+  },
+  "render_type": "solid"
+}

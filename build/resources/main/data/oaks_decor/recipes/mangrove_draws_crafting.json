@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mangrove_log"
+    },
+    "1": {
+      "item": "minecraft:mangrove_log"
+    },
+    "2": {
+      "item": "minecraft:mangrove_log"
+    },
+    "3": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "6": {
+      "item": "minecraft:mangrove_log"
+    },
+    "7": {
+      "item": "minecraft:mangrove_log"
+    },
+    "8": {
+      "item": "minecraft:mangrove_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:mangrove_draws_closed",
+    "count": 1
+  }
+}

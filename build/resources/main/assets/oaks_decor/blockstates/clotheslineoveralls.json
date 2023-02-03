@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/clotheslineoveralls"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/clotheslineoveralls",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/clotheslineoveralls",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/clotheslineoveralls",
+      "y": 270
+    }
+  }
+}

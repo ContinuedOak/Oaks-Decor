@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "wood": "stripped_mangrove_log"
+      },
+      "name": "default"
+    }
+  }
+}

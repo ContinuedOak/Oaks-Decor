@@ -1,0 +1,342 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "skeletondecorskullandbones",
+  "texture_size": [
+    32,
+    32
+  ],
+  "elements": [
+    {
+      "name": "right_leg",
+      "from": [
+        10,
+        0,
+        2.75
+      ],
+      "to": [
+        12,
+        2,
+        14.75
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          9.5,
+          1,
+          12.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            10,
+            9,
+            11
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            8,
+            10,
+            9
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            8,
+            11
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            4,
+            14,
+            5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            5,
+            15,
+            4,
+            9
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            6,
+            9,
+            5,
+            15
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "left_leg",
+      "from": [
+        0.5,
+        0.25,
+        1
+      ],
+      "to": [
+        12.5,
+        2.25,
+        3
+      ],
+      "shade": false,
+      "rotation": {
+        "angle": 0,
+        "axis": "z",
+        "origin": [
+          5.5,
+          2,
+          13
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            5,
+            14,
+            6
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            9,
+            11
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            6,
+            14,
+            7
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            8,
+            9,
+            9
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            14,
+            8,
+            8,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            14,
+            4,
+            8,
+            5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "head",
+      "from": [
+        4.281,
+        0.03421,
+        2.70965
+      ],
+      "to": [
+        12.281,
+        8.03421,
+        10.70965
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          0,
+          13.71737,
+          2.37246
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            12,
+            0,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {},
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "right_leg",
+          "origin": [
+            -2,
+            12,
+            0.1
+          ],
+          "color": 0,
+          "children": [
+            0
+          ]
+        },
+        {
+          "name": "left_leg",
+          "origin": [
+            2,
+            12,
+            0.1
+          ],
+          "color": 0,
+          "shade": false,
+          "children": [
+            1
+          ]
+        },
+        {
+          "name": "left_arm",
+          "origin": [
+            5,
+            22,
+            0
+          ],
+          "color": 0,
+          "shade": false,
+          "children": []
+        },
+        {
+          "name": "right_arm",
+          "origin": [
+            -5,
+            22,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "body",
+          "origin": [
+            0,
+            24,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "headwear",
+          "origin": [
+            0,
+            24,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "head",
+          "origin": [
+            0,
+            24,
+            0
+          ],
+          "rotation": [
+            -10,
+            0,
+            0
+          ],
+          "color": 0,
+          "children": [
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "draws_closed": {
+    "category": "block",
+    "subtitle": "subtitles.draws_closed",
+    "sounds": [
+      {
+        "name": "oaks_decor:drawsclosed",
+        "stream": false
+      }
+    ]
+  },
+  "draws_open": {
+    "category": "block",
+    "subtitle": "subtitles.draws_open",
+    "sounds": [
+      {
+        "name": "oaks_decor:drawsopen",
+        "stream": false
+      }
+    ]
+  },
+  "completed_task": {
+    "category": "block",
+    "subtitle": "subtitles.completed_task",
+    "sounds": [
+      {
+        "name": "oaks_decor:orb",
+        "stream": false
+      }
+    ]
+  },
+  "alarm_clock_on": {
+    "category": "block",
+    "subtitle": "subtitles.alarm_clock_on",
+    "sounds": [
+      {
+        "name": "oaks_decor:509684__dcloh__alarm-clock",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "1": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "2": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "3": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "4": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "5": {
+      "item": "oaks_nature:limestone_brick"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:polished_limestone_wall",
+    "count": 6
+  }
+}

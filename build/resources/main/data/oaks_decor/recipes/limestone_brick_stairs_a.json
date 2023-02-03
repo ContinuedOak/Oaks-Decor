@@ -1,0 +1,33 @@
+{
+  "group": "limestone_brick_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "3": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "4": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "6": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "7": {
+      "item": "oaks_nature:limestone_brick"
+    },
+    "8": {
+      "item": "oaks_nature:limestone_brick"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:limestone_brick_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "desert"
+  ],
+  "features": "oaks_decor:sand_castle",
+  "step": "vegetal_decoration"
+}

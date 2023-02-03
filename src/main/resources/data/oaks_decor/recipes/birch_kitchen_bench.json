@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stripped_birch_log"
+    },
+    "1": {
+      "item": "minecraft:stripped_birch_log"
+    },
+    "2": {
+      "item": "minecraft:stripped_birch_log"
+    },
+    "3": {
+      "item": "minecraft:birch_log"
+    },
+    "4": {
+      "item": "minecraft:birch_log"
+    },
+    "6": {
+      "item": "minecraft:birch_log"
+    },
+    "7": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:birch_kitchen_bench",
+    "count": 2
+  }
+}

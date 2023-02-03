@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/spruce_desk2b",
+  "textures": {
+    "all": "oaks_decor:blocks/spruce_desk2b_",
+    "particle": "oaks_decor:blocks/spruce_planks",
+    "13": "oaks_decor:blocks/spruce_desk2b_"
+  },
+  "render_type": "solid"
+}

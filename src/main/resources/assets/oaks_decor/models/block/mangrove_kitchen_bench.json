@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/kitchen_bench",
+  "textures": {
+    "all": "oaks_decor:blocks/mangrove_log",
+    "particle": "oaks_decor:blocks/mangrove_log",
+    "strip": "oaks_decor:blocks/stripped_mangrove_log",
+    "log": "oaks_decor:blocks/mangrove_log"
+  },
+  "render_type": "cutout_mipped"
+}

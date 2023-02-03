@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/woodencross1",
+  "textures": {
+    "all": "oaks_decor:blocks/log_pile",
+    "particle": "oaks_decor:blocks/oak_planks",
+    "0": "oaks_decor:blocks/log_pile"
+  },
+  "render_type": "solid"
+}

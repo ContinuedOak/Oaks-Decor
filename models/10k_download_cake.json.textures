@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "cake_side",
+        "3": "red_wool",
+        "top": "cake_top",
+        "bottom": "cake_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

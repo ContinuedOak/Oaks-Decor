@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "log": "acacia_log",
+        "planks": "acacia_hanging_shelves_breakable"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/paper",
+  "textures": {
+    "all": "oaks_decor:blocks/paper",
+    "particle": "oaks_decor:blocks/paper",
+    "0": "oaks_decor:blocks/paper"
+  },
+  "render_type": "solid"
+}

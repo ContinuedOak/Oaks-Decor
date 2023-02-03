@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/tableclock",
+  "textures": {
+    "all": "oaks_decor:blocks/tableclock",
+    "particle": "oaks_decor:blocks/gray_concrete_powder",
+    "5": "oaks_decor:blocks/tableclock"
+  },
+  "render_type": "cutout_mipped"
+}

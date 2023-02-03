@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_decor:blocks/netherrack_bricks",
+    "up": "oaks_decor:blocks/netherrack_bricks",
+    "north": "oaks_decor:blocks/netherrack_bricks",
+    "east": "oaks_decor:blocks/netherrack_bricks",
+    "south": "oaks_decor:blocks/netherrack_bricks",
+    "west": "oaks_decor:blocks/netherrack_bricks",
+    "particle": "oaks_decor:blocks/netherrack_bricks"
+  },
+  "render_type": "solid"
+}

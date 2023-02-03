@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "oaks_decor:block/limestone_brick_slab"
+    },
+    "type=top": {
+      "model": "oaks_decor:block/limestone_brick_slab_top"
+    },
+    "type=double": {
+      "model": "oaks_decor:block/limestone_brick_slab_full"
+    }
+  }
+}

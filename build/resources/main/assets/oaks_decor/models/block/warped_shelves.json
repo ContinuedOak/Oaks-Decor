@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/shelf",
+  "textures": {
+    "all": "oaks_decor:blocks/warped_planks",
+    "particle": "oaks_decor:blocks/warped_stem_side",
+    "log": "oaks_decor:blocks/warped_stem_side",
+    "planks": "oaks_decor:blocks/warped_planks"
+  },
+  "render_type": "solid"
+}

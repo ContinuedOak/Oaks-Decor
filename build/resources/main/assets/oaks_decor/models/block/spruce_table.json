@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/spruce_table",
+  "textures": {
+    "all": "oaks_decor:blocks/spruce_stool",
+    "particle": "oaks_decor:blocks/spruce_planks",
+    "3": "oaks_decor:blocks/spruce_table"
+  },
+  "render_type": "solid"
+}

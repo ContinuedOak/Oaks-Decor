@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "15": "warped_desk1"
+      },
+      "name": "default"
+    }
+  }
+}

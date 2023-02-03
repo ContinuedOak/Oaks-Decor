@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "bookstack_4"
+      },
+      "name": "default"
+    }
+  }
+}

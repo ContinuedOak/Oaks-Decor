@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.WOOL"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:ContinuedOaksFigure"
+    },
+    "name": "mob_figure_1",
+    "namespace": "mod"
+  }
+}

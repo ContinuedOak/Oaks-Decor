@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "rotten_flesh",
+        "wood": "stripped_birch_log"
+      },
+      "name": "default"
+    }
+  }
+}

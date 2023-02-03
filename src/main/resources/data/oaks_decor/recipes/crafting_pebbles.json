@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_decor:throwable_pebble"
+    },
+    "1": {
+      "item": "oaks_decor:throwable_pebble"
+    },
+    "2": {
+      "item": "oaks_decor:throwable_pebble"
+    },
+    "3": {
+      "item": "oaks_decor:throwable_pebble"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

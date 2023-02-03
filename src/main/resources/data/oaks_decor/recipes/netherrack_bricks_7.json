@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "oaks_decor:netherrack_bricks"
+  },
+  "result": "oaks_decor:netherrack_bricks_stairs"
+}

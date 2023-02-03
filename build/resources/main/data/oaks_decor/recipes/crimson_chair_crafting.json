@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_stem"
+    },
+    "3": {
+      "item": "minecraft:crimson_stem"
+    },
+    "4": {
+      "item": "minecraft:crimson_stem"
+    },
+    "5": {
+      "item": "minecraft:crimson_stem"
+    },
+    "6": {
+      "item": "minecraft:crimson_stem"
+    },
+    "8": {
+      "item": "minecraft:crimson_stem"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:crimson_chair",
+    "count": 1
+  }
+}

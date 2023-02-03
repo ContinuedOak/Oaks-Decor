@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "oaks_decor:blocks/polished_limestone",
+    "top": "oaks_decor:blocks/polished_limestone",
+    "side": "oaks_decor:blocks/polished_limestone"
+  },
+  "render_type": "solid"
+}

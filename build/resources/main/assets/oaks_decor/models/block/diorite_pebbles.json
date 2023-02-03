@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/stone_pebbles3",
+  "textures": {
+    "all": "oaks_decor:blocks/diorite",
+    "particle": "oaks_decor:blocks/diorite",
+    "0": "oaks_decor:blocks/diorite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "oaks_decor:custom/10k_download_cake",
+  "textures": {
+    "all": "oaks_decor:blocks/red_wool",
+    "particle": "oaks_decor:blocks/red_wool",
+    "side": "oaks_decor:blocks/cake_side",
+    "3": "oaks_decor:blocks/red_wool",
+    "top": "oaks_decor:blocks/cake_top",
+    "bottom": "oaks_decor:blocks/cake_bottom"
+  },
+  "render_type": "solid"
+}

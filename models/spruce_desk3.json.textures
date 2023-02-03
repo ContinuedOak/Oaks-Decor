@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "13": "spruce_desk3"
+      },
+      "name": "default"
+    }
+  }
+}

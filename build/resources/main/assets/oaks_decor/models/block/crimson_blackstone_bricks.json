@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_decor:blocks/crimson_blackstone_bricks",
+    "up": "oaks_decor:blocks/crimson_blackstone_bricks",
+    "north": "oaks_decor:blocks/crimson_blackstone_bricks",
+    "east": "oaks_decor:blocks/crimson_blackstone_bricks",
+    "south": "oaks_decor:blocks/crimson_blackstone_bricks",
+    "west": "oaks_decor:blocks/crimson_blackstone_bricks",
+    "particle": "oaks_decor:blocks/crimson_blackstone_bricks"
+  },
+  "render_type": "solid"
+}

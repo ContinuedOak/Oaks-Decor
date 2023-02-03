@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_decor:custom/log_pile",
+  "textures": {
+    "all": "oaks_decor:blocks/warped_stem_side",
+    "particle": "oaks_decor:blocks/warped_stem_side",
+    "log": "oaks_decor:blocks/warped_stem_side",
+    "rail": "oaks_decor:blocks/activator_rail",
+    "log_top": "oaks_decor:blocks/warped_stem_side"
+  },
+  "render_type": "solid"
+}

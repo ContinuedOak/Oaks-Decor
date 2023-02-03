@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "line": "hay_block_top",
+        "base": "hay_block_top"
+      },
+      "name": "default"
+    }
+  }
+}

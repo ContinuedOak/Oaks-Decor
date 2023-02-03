@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:mangrove_log"
+    },
+    "3": {
+      "item": "minecraft:mangrove_log"
+    },
+    "4": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "5": {
+      "item": "minecraft:mangrove_log"
+    },
+    "6": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "7": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "8": {
+      "item": "minecraft:mangrove_planks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:mangrove_dog_house",
+    "count": 1
+  }
+}

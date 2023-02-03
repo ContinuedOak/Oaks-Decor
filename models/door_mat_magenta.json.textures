@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "line": "magenta_wool",
+        "base": "hay_block_top"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_stem"
+    },
+    "1": {
+      "item": "minecraft:warped_stem"
+    },
+    "2": {
+      "item": "minecraft:warped_stem"
+    },
+    "3": {
+      "item": "minecraft:warped_planks"
+    },
+    "5": {
+      "item": "minecraft:warped_planks"
+    },
+    "6": {
+      "item": "minecraft:warped_planks"
+    },
+    "7": {
+      "item": "minecraft:warped_planks"
+    },
+    "8": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:warped_desk",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/door_mat_white",
+  "textures": {
+    "all": "oaks_decor:blocks/hay_block_top",
+    "particle": "oaks_decor:blocks/hay_block_top",
+    "line": "oaks_decor:blocks/white_wool",
+    "base": "oaks_decor:blocks/hay_block_top"
+  },
+  "render_type": "solid"
+}

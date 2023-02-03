@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_decor:custom/templete_draws_closed",
+  "textures": {
+    "all": "oaks_decor:blocks/crimson_stem_side",
+    "particle": "oaks_decor:blocks/stripped_crimson_stem",
+    "polished": "oaks_decor:blocks/polished_blackstone",
+    "log": "oaks_decor:blocks/crimson_stem_side",
+    "stripped": "oaks_decor:blocks/stripped_crimson_stem"
+  },
+  "render_type": "solid"
+}

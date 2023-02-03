@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "tap": "gray_concrete",
+        "log": "acacia_log",
+        "stripped": "stripped_acacia_log",
+        "water_still": "water_sink"
+      },
+      "name": "default"
+    }
+  }
+}

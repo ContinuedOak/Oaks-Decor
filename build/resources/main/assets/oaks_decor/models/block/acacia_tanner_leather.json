@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/acacia_tanner_leather",
+  "textures": {
+    "all": "oaks_decor:blocks/stripped_acacia_log",
+    "particle": "oaks_decor:blocks/stripped_acacia_log",
+    "wood": "oaks_decor:blocks/stripped_acacia_log"
+  },
+  "render_type": "cutout"
+}

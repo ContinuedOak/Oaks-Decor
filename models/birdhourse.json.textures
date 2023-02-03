@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "oak_bird_hourse"
+      },
+      "name": "default"
+    }
+  }
+}

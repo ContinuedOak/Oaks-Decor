@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/doghousea",
+  "textures": {
+    "all": "oaks_decor:blocks/crimson_stem_side",
+    "particle": "oaks_decor:blocks/stripped_crimson_stem",
+    "spruce_log": "oaks_decor:blocks/crimson_stem_side",
+    "stripped_spruce_log": "oaks_decor:blocks/stripped_crimson_stem"
+  },
+  "render_type": "solid"
+}

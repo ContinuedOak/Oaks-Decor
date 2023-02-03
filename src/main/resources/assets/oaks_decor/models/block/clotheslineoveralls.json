@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/clothesline_overalls",
+  "textures": {
+    "all": "oaks_decor:blocks/clothesline_overalls",
+    "particle": "oaks_decor:blocks/oak_planks",
+    "9": "oaks_decor:blocks/clothesline_overalls"
+  },
+  "render_type": "cutout"
+}

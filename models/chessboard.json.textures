@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "White Concrete": "white_concrete_powder",
+        "Beehive": "beehive_end",
+        "Checkers": "checkers",
+        "Gray Concrete": "gray_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

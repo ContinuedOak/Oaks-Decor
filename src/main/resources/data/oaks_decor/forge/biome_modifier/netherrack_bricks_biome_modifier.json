@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "oaks_decor:netherrack_bricks",
+  "step": "underground_ores"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_log"
+    },
+    "1": {
+      "item": "minecraft:target"
+    },
+    "2": {
+      "item": "minecraft:spruce_log"
+    },
+    "3": {
+      "item": "minecraft:spruce_log"
+    },
+    "5": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:spruce_target_stage_0",
+    "count": 2
+  }
+}

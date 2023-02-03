@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.STONE#1"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:GranitePebbles"
+    },
+    "name": "granite_pebbles_cafting",
+    "namespace": "mod"
+  }
+}

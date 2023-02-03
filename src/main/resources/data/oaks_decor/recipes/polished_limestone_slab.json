@@ -1,0 +1,22 @@
+{
+  "group": "polished_limestone_slab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:polished_limestone"
+    },
+    "1": {
+      "item": "oaks_nature:polished_limestone"
+    },
+    "2": {
+      "item": "oaks_nature:polished_limestone"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:polished_limestone_slab",
+    "count": 6
+  }
+}

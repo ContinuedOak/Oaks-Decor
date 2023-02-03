@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "wood": "stripped_warped_stem"
+      },
+      "name": "default"
+    }
+  }
+}

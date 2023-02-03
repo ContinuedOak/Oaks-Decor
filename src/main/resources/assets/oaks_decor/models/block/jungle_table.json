@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/junlge_table",
+  "textures": {
+    "all": "oaks_decor:blocks/jungle_table",
+    "particle": "oaks_decor:blocks/jungle_planks",
+    "2": "oaks_decor:blocks/jungle_table"
+  },
+  "render_type": "solid"
+}

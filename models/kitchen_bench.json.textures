@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "strip": "stripped_acacia_log",
+        "log": "acacia_log"
+      },
+      "name": "default"
+    }
+  }
+}

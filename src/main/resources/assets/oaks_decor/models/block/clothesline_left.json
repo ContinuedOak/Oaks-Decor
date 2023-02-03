@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/clothes_line2",
+  "textures": {
+    "all": "oaks_decor:blocks/clothesline",
+    "particle": "oaks_decor:blocks/oak_planks",
+    "1": "oaks_decor:blocks/clothesline"
+  },
+  "render_type": "solid"
+}

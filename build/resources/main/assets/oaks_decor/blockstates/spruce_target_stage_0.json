@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/spruce_target_stage_0"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/spruce_target_stage_0",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/spruce_target_stage_0",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/spruce_target_stage_0",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "oaks_decor:block/spruce_target_stage_0",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "oaks_decor:block/spruce_target_stage_0",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_decor:blocks/spruce_planks",
+    "up": "oaks_decor:blocks/spruce_planks",
+    "north": "oaks_decor:blocks/spruce_bookshelf",
+    "east": "oaks_decor:blocks/spruce_bookshelf",
+    "south": "oaks_decor:blocks/spruce_bookshelf",
+    "west": "oaks_decor:blocks/spruce_bookshelf",
+    "particle": "oaks_decor:blocks/spruce_planks"
+  },
+  "render_type": "solid"
+}

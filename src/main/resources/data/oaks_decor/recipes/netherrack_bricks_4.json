@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "oaks_decor:netherrack_bricks"
+    },
+    "4": {
+      "item": "oaks_decor:netherrack_bricks"
+    },
+    "5": {
+      "item": "oaks_decor:netherrack_bricks"
+    },
+    "6": {
+      "item": "oaks_decor:netherrack_bricks"
+    },
+    "7": {
+      "item": "oaks_decor:netherrack_bricks"
+    },
+    "8": {
+      "item": "oaks_decor:netherrack_bricks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:netherrack_bricks_stairs",
+    "count": 4
+  }
+}

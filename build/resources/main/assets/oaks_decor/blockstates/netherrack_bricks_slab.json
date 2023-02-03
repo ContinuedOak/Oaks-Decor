@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "oaks_decor:block/netherrack_bricks_slab"
+    },
+    "type=top": {
+      "model": "oaks_decor:block/netherrack_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "oaks_decor:block/netherrack_bricks_slab_full"
+    }
+  }
+}

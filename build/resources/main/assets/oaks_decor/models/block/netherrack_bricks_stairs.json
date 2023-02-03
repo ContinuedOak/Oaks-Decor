@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "oaks_decor:blocks/netherrack_bricks",
+    "top": "oaks_decor:blocks/netherrack_bricks",
+    "side": "oaks_decor:blocks/netherrack_bricks"
+  },
+  "render_type": "solid"
+}

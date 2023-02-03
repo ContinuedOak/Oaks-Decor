@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/spruce_tanner_leather"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/spruce_tanner_leather",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/spruce_tanner_leather",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/spruce_tanner_leather",
+      "y": 270
+    }
+  }
+}

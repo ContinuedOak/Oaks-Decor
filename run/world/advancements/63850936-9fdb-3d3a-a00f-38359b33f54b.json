@@ -1,0 +1,16 @@
+{
+  "oaks_decor:welcome_to_oaks_decor": {
+    "criteria": {
+      "welcome_to_oaks_decor": "2022-05-09 06:12:08 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-05-09 06:13:48 +1000",
+      "minecraft:grove": "2022-05-09 06:12:08 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

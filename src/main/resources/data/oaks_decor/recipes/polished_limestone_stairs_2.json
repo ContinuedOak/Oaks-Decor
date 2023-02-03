@@ -1,0 +1,33 @@
+{
+  "group": "polished_limestone_stairs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "oaks_nature:polished_limestone"
+    },
+    "4": {
+      "item": "oaks_nature:polished_limestone"
+    },
+    "5": {
+      "item": "oaks_nature:polished_limestone"
+    },
+    "6": {
+      "item": "oaks_nature:polished_limestone"
+    },
+    "7": {
+      "item": "oaks_nature:polished_limestone"
+    },
+    "8": {
+      "item": "oaks_nature:polished_limestone"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:polished_limestone_stairs",
+    "count": 4
+  }
+}

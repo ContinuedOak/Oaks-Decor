@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "jungle_log",
+        "base": "stripped_jungle_log"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_decor:custom/sink_empty",
+  "textures": {
+    "all": "oaks_decor:blocks/warped_stem_side",
+    "particle": "oaks_decor:blocks/warped_stem_side",
+    "tap": "oaks_decor:blocks/gray_concrete",
+    "log": "oaks_decor:blocks/warped_stem_side",
+    "stripped": "oaks_decor:blocks/stripped_warped_stem"
+  },
+  "render_type": "cutout_mipped"
+}

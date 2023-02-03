@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/scarecrow",
+  "textures": {
+    "all": "oaks_decor:blocks/scarecrow",
+    "particle": "oaks_decor:blocks/scarecrow",
+    "0": "oaks_decor:blocks/scarecrow",
+    "2": "oaks_decor:blocks/32"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "oaks_decor:textures/screens/bricks.png",
+    "icon": {
+      "item": "oaks_decor:sand_castles"
+    },
+    "title": {
+      "translate": "advancements.welcome_to_oaks_decor.title"
+    },
+    "description": {
+      "translate": "advancements.welcome_to_oaks_decor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "welcome_to_oaks_decor": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "log": "acacia_log",
+        "rail": "activator_rail",
+        "log_top": "acacia_log_top"
+      },
+      "name": "default"
+    }
+  }
+}

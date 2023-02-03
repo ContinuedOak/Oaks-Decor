@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/doghousea",
+  "textures": {
+    "all": "oaks_decor:blocks/oak_log",
+    "particle": "oaks_decor:blocks/oak_log",
+    "spruce_log": "oaks_decor:blocks/oak_log",
+    "stripped_spruce_log": "oaks_decor:blocks/stripped_oak_log"
+  },
+  "render_type": "solid"
+}

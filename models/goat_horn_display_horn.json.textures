@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "horn": "goat_horn",
+        "planks": "acacia_planks"
+      },
+      "name": "default"
+    }
+  }
+}

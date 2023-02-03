@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/dark_desk2a",
+  "textures": {
+    "all": "oaks_decor:blocks/dark_desk2a",
+    "particle": "oaks_decor:blocks/dark_oak_planks",
+    "13": "oaks_decor:blocks/dark_desk2a"
+  },
+  "render_type": "solid"
+}

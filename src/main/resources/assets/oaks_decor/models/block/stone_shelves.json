@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/shelf",
+  "textures": {
+    "all": "oaks_decor:blocks/stone",
+    "particle": "oaks_decor:blocks/tombstone_breaking",
+    "log": "oaks_decor:blocks/tombstone_breaking",
+    "planks": "oaks_decor:blocks/stone"
+  },
+  "render_type": "solid"
+}

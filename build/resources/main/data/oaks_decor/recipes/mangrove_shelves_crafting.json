@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "1": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "2": {
+      "item": "minecraft:mangrove_log"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:mangrove_shelves",
+    "count": 3
+  }
+}

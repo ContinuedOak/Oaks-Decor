@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "seat": "stripped_oak_log",
+        "legs": "stripped_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

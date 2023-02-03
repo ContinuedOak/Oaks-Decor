@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_planks"
+    },
+    "1": {
+      "item": "minecraft:jungle_planks"
+    },
+    "2": {
+      "item": "minecraft:jungle_planks"
+    },
+    "3": {
+      "item": "minecraft:jungle_planks"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:jungle_planks"
+    },
+    "6": {
+      "item": "minecraft:jungle_planks"
+    },
+    "7": {
+      "item": "minecraft:jungle_planks"
+    },
+    "8": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:jungle_crate",
+    "count": 1
+  }
+}

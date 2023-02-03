@@ -1,0 +1,12 @@
+{
+  "parent": "oaks_decor:custom/sandcastle",
+  "textures": {
+    "all": "oaks_decor:blocks/sandcastle",
+    "particle": "oaks_decor:blocks/sand",
+    "sand": "oaks_decor:blocks/sand",
+    "castle": "oaks_decor:blocks/sandcastle",
+    "sandbottom": "oaks_decor:blocks/sandcastle_side",
+    "water": "oaks_decor:blocks/water_sink"
+  },
+  "render_type": "cutout"
+}

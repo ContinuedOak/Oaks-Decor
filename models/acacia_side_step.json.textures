@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "acacia_log_top",
+        "log": "acacia_log",
+        "planks": "acacia_planks"
+      },
+      "name": "default"
+    }
+  }
+}

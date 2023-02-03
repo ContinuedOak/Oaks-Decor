@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/kitchen_bench",
+  "textures": {
+    "all": "oaks_decor:blocks/crimson_stem_side",
+    "particle": "oaks_decor:blocks/crimson_stem_side",
+    "strip": "oaks_decor:blocks/stripped_crimson_stem",
+    "log": "oaks_decor:blocks/crimson_stem_side"
+  },
+  "render_type": "cutout_mipped"
+}

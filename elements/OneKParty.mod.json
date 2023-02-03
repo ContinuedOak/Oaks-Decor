@@ -1,0 +1,12 @@
+{
+  "_fv": 34,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Katies Hat",
+    "description": "Give katies Hat",
+    "category": "DROPS",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

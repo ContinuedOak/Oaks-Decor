@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/alarm_clock"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/alarm_clock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/alarm_clock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/alarm_clock",
+      "y": 270
+    }
+  }
+}

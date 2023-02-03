@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_decor:custom/templete_draws_closed",
+  "textures": {
+    "all": "oaks_decor:blocks/birch_log",
+    "particle": "oaks_decor:blocks/stripped_birch_log",
+    "polished": "oaks_decor:blocks/polished_andesite",
+    "log": "oaks_decor:blocks/birch_log",
+    "stripped": "oaks_decor:blocks/stripped_birch_log"
+  },
+  "render_type": "solid"
+}

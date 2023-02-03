@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/cyancup",
+  "textures": {
+    "all": "oaks_decor:blocks/cayancup",
+    "particle": "oaks_decor:blocks/cayancup",
+    "1": "oaks_decor:blocks/cayancup"
+  },
+  "render_type": "solid"
+}

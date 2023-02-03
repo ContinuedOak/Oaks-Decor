@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "1": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "2": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "3": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "4": {
+      "item": "minecraft:weeping_vines"
+    },
+    "5": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "6": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "7": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "8": {
+      "item": "minecraft:polished_blackstone_bricks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:crimson_blackstone_bricks",
+    "count": 8
+  }
+}

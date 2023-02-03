@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/crimson_desk1",
+  "textures": {
+    "all": "oaks_decor:blocks/crimson_desk1",
+    "particle": "oaks_decor:blocks/crimson_planks",
+    "16": "oaks_decor:blocks/crimson_desk1"
+  },
+  "render_type": "solid"
+}

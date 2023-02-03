@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/crimson_table",
+  "textures": {
+    "all": "oaks_decor:blocks/crimson_table",
+    "particle": "oaks_decor:blocks/crimson_planks",
+    "2": "oaks_decor:blocks/crimson_table"
+  },
+  "render_type": "solid"
+}

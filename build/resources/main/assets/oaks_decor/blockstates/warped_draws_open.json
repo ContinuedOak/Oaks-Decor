@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_decor:block/warped_draws_open"
+    },
+    "facing=east": {
+      "model": "oaks_decor:block/warped_draws_open",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_decor:block/warped_draws_open",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_decor:block/warped_draws_open",
+      "y": 270
+    }
+  }
+}

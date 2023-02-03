@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/modernstairs",
+  "textures": {
+    "all": "oaks_decor:blocks/chiseled_quartz_block_top",
+    "particle": "oaks_decor:blocks/chiseled_quartz_block_top",
+    "0": "oaks_decor:blocks/chiseled_quartz_block_top",
+    "1": "oaks_decor:blocks/quartz_block_top"
+  },
+  "render_type": "solid"
+}

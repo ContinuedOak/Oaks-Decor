@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_decor:netherrack_bricks"
+    },
+    "1": {
+      "item": "oaks_decor:netherrack_bricks"
+    },
+    "2": {
+      "item": "oaks_decor:netherrack_bricks"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:netherrack_bricks_slab",
+    "count": 6
+  }
+}

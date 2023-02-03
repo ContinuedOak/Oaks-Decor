@@ -1,0 +1,60 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:OakTargetStage0"
+      },
+      {
+        "value": "CUSTOM:AcaciaTargetStage0"
+      },
+      {
+        "value": "CUSTOM:BirchTargetStage0"
+      },
+      {
+        "value": "CUSTOM:DarkOakTargetStage0"
+      },
+      {
+        "value": "CUSTOM:JungleTargetStage0"
+      },
+      {
+        "value": "CUSTOM:MangroveTargetStage0"
+      },
+      {
+        "value": "CUSTOM:SpruceTargetStage0"
+      },
+      {
+        "value": "CUSTOM:OakTargetStage1"
+      },
+      {
+        "value": "CUSTOM:AcaciaTargetStage1"
+      },
+      {
+        "value": "CUSTOM:BirchTargetStage1"
+      },
+      {
+        "value": "CUSTOM:DarkOakTargetStage1"
+      },
+      {
+        "value": "CUSTOM:JungleTargetStage1"
+      },
+      {
+        "value": "CUSTOM:MangroveTargetStage1"
+      },
+      {
+        "value": "CUSTOM:SpruceTargetStage1"
+      },
+      {
+        "value": "Blocks.TARGET"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "target",
+    "namespace": "oaks_decor"
+  }
+}

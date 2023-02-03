@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/stone_pebbles",
+  "textures": {
+    "all": "oaks_decor:blocks/deepslate",
+    "particle": "oaks_decor:blocks/deepslate",
+    "0": "oaks_decor:blocks/deepslate"
+  },
+  "render_type": "solid"
+}

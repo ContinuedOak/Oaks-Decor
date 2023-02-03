@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/target_stage1",
+  "textures": {
+    "all": "oaks_decor:blocks/spruce_log",
+    "particle": "oaks_decor:blocks/spruce_log",
+    "log": "oaks_decor:blocks/spruce_log",
+    "target": "oaks_decor:blocks/target_side"
+  },
+  "render_type": "solid"
+}

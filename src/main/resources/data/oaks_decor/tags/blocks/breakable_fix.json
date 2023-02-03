@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "oaks_decor:jungle_draws_open",
+    "oaks_decor:spruce_draws_open",
+    "oaks_decor:oak_draws_closed",
+    "oaks_decor:spruce_draws_closed",
+    "oaks_decor:acacia_draws_closed",
+    "oaks_decor:dark_oak_draws_open",
+    "oaks_decor:crimson_draws_open",
+    "oaks_decor:warped_draws_open",
+    "oaks_decor:dark_oak_draws_closed",
+    "oaks_decor:crimson_draws_closed",
+    "oaks_decor:oak_draws_open",
+    "oaks_decor:jungle_draws_closed",
+    "oaks_decor:acacia_draws_open",
+    "oaks_decor:birch_draws_open",
+    "oaks_decor:warped_draws_closed",
+    "oaks_decor:birch_draws_closed",
+    "oaks_decor:mangrove_draws_open",
+    "oaks_decor:mangrove_draws_closed"
+  ]
+}

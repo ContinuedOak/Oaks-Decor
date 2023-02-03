@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "rotten_flesh",
+        "wood": "stripped_dark_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

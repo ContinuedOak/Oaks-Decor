@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "sand": "sand",
+        "castle": "sandcastle",
+        "sandbottom": "sandcastle_side",
+        "water": "water_sink"
+      },
+      "name": "default"
+    }
+  }
+}

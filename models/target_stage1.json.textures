@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "log": "oak_log",
+        "target": "target_side"
+      },
+      "name": "default"
+    }
+  }
+}

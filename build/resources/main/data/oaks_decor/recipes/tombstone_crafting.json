@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:andesite"
+    },
+    "3": {
+      "item": "minecraft:andesite"
+    },
+    "4": {
+      "item": "minecraft:andesite"
+    },
+    "5": {
+      "item": "minecraft:andesite"
+    },
+    "6": {
+      "item": "minecraft:smooth_stone"
+    },
+    "7": {
+      "item": "minecraft:smooth_stone"
+    },
+    "8": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:tombstone_1",
+    "count": 1
+  }
+}

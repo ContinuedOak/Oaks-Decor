@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_planks"
+    },
+    "1": {
+      "item": "minecraft:crimson_planks"
+    },
+    "2": {
+      "item": "minecraft:crimson_planks"
+    },
+    "4": {
+      "item": "minecraft:crimson_stem"
+    },
+    "7": {
+      "item": "minecraft:crimson_stem"
+    }
+  },
+  "result": {
+    "item": "oaks_decor:crimson_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_decor:custom/birch_tanner_leather",
+  "textures": {
+    "all": "oaks_decor:blocks/birch_planks",
+    "particle": "oaks_decor:blocks/stripped_birch_log",
+    "wood": "oaks_decor:blocks/stripped_birch_log"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "oaks_decor:custom/acacia_crate",
+  "textures": {
+    "all": "oaks_decor:blocks/spruce_planks",
+    "particle": "oaks_decor:blocks/spruce_planks",
+    "log": "oaks_decor:blocks/spruce_log",
+    "planks": "oaks_decor:blocks/spruce_planks"
+  },
+  "render_type": "solid"
+}

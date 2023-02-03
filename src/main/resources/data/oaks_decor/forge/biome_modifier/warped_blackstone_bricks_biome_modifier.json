@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "warped_forest",
+  "features": "oaks_decor:warped_blackstone_bricks",
+  "step": "underground_ores"
+}
